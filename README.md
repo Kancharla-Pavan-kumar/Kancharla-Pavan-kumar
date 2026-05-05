@@ -11,22 +11,6 @@
 - 📚 Currently learning MongoDB, Express.js, React, Node.js & DSA
 - 🌱 Growing consistently, one concept and one project at a time
 
----
-
-## 🛠️ Current Projects
-
-🔭 **FarmLink Marketplace System**  
-A full-stack platform connecting farmers and buyers.
-
-👉 https://farmlink-portfolio.vercel.app
-
-
-🔥 **Project Immortal**  
-A full-stack platform built using MERN stack focusing on user management, admin dashboards, and platform operations.
-
-👉 https://project-immortal.vercel.app/
-
----
 
 ## 🌱 Currently Learning
 
@@ -52,8 +36,8 @@ A full-stack platform built using MERN stack focusing on user management, admin 
 ---
 
 ## 📫 Let’s Connect  
-[📧 Email Me](mailto:rishichowdary2099@gmail.com) •  
-[💼 LinkedIn](https://www.linkedin.com/in/immortal4728/)
+[📧 Email Me](mailto:) •  
+[💼 LinkedIn]
 
 ---
 
