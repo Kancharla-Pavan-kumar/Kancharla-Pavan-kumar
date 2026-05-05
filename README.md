@@ -19,7 +19,7 @@
 - Database Design & Optimization  
 - Data Structures & Algorithms  
 - System Design Basics  
-
+https://www.linkedin.com/in/pavan-kancharla-575060296/
 ---
 
 ## 🤝 Collaboration & Growth
